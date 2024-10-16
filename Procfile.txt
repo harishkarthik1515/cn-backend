@@ -1,1 +1,1 @@
-web: python app.py  # Replace 'app.py' with your main file
+web: gunicorn app:app  # If your Flask app is named 'app.py' with 'app' as the Flask instance
