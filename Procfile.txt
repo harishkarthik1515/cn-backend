@@ -1,0 +1,1 @@
+web: python app.py  # Replace 'app.py' with your main file
